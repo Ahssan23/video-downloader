@@ -4,3 +4,4 @@ jinja2
 pytubefix
 pytube
 pydantic
+python-multipart
