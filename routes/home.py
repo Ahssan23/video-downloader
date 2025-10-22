@@ -2,7 +2,6 @@ from fastapi import APIRouter, Request,Form
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import FileResponse
 from pydantic import BaseModel
-import pytube
 import os 
 from pytubefix import YouTube
 
