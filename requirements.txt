@@ -5,3 +5,5 @@ pytubefix
 pytube
 pydantic
 python-multipart
+yt-dlp
+requests
